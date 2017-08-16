@@ -1,0 +1,19 @@
+Order type	paid
+Algorithm	Scrypt
+Type		PoW/PoS
+Coin name	xyzcoin
+Coin abbreviation	XYZ
+Address letter	Z (80)
+RPC port	13013
+P2P port	13014
+Block reward	23 coins
+Total coin supply	10733333 coins
+Premine amount	536666 coins
+PoS percentage		15% per year
+Last PoW block		block 1000
+Coinbase maturity	20 blocks
+Target spacing		64 seconds
+Target timespan	16 min 
+Transaction confirmations	6 blocks
+Seednode: 178.210.48.7
+

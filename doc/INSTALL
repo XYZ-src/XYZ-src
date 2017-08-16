@@ -1,0 +1,5 @@
+Building xyzcoin
+
+See the folder "doc/" for instructions on building xyzcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of xyzcoin.
